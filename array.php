@@ -24,7 +24,7 @@ $b["key 3"] = 10000;
 var_dump ($b)."<br>";
 var_dump($c)."<br>";
 
-$c ["key 3"]["sub2"] = 900000;
+$c ["key 3"]["sub2"] = 99900000;
 var_dump ($c);
 ?>
 </html>
